@@ -38,4 +38,5 @@ else
 
 echo Script deve ser executado com usuario root
 
+
 fi
